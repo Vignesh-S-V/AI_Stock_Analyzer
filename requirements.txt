@@ -6,4 +6,5 @@ ta
 scikit-learn
 plotly
 tensorflow
+tf
 pytz
